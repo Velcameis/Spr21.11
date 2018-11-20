@@ -2,9 +2,9 @@
 
 using namespace std;
 
-// 1. Napisz funkcje, ktora oblicza pole trojkata o podanych d≥ugoúciach podstawy a i wysokoúci h
+// 1. Napisz funkcje, ktora oblicza pole trojkata o podanych d¬≥ugo≈ìciach podstawy a i wysoko≈ìci h
 
-/*
+
 int f (int a, int h)
 {
     return (a*h)/2;
@@ -16,9 +16,9 @@ int main ()
     cout << "POLE:" << f(a, b);
 
 }
-*/
 
-// 2. Sprawdü czy dana liczba jest liczbπ Marsenne'a
+
+// 2. Sprawd≈∏ czy dana liczba jest liczb¬π Marsenne'a
 
 void marsenne (int x)
 {
@@ -40,7 +40,7 @@ int main ()
     marsenne (x);
 }
 
-//Ten ca≥y Niuton Rapson
+//Ten ca¬≥y Niuton Rapson
 
 //a, b        (a+b)/2
 //1, 40 -     (1+40)/2
